@@ -5,7 +5,7 @@ for entry in */; do
         cp -r .prod.env $entry.env
         cd $entry
         docker build -t ${entry@%/}:latest -f Dockerfile.prod .
-        docker push hmake98/${entry@%/}:latest
+        docker push redhaanggara/${entry@%/}:latest
         cd ..
     fi
 done
