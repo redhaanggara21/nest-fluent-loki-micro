@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-microservices",
+  "name": "nest-fluent-loki-micro",
   "version": "1.0.0",
   "description": "Nestjs Microservices Boilerplate",
   "scripts": {
@@ -13,18 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redhaanggara/nestjs-microservices.git"
+    "url": "git+https://github.com/redhaanggara21/nest-fluent-loki-micro.git"
   },
   "keywords": [
     "microservices",
     "nestjs"
   ],
-  "author": "redhaanggara",
+  "author": "redhaanggara21",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/redhaanggara/nestjs-microservices/issues"
+    "url": "https://github.com/redhaanggara21/nest-fluent-loki-micro/issues"
   },
-  "homepage": "https://github.com/redhaanggara/nestjs-microservices#readme",
+  "homepage": "https://github.com/redhaanggara21/nest-fluent-loki-micro#readme",
   "devDependencies": {
     "@nestjs/cli": "^8.2.1",
     "cross-env": "^7.0.3",
