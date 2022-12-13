@@ -13,18 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hmake98/nestjs-microservices.git"
+    "url": "git+https://github.com/redhaanggara/nestjs-microservices.git"
   },
   "keywords": [
     "microservices",
     "nestjs"
   ],
-  "author": "hmake98",
+  "author": "redhaanggara",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hmake98/nestjs-microservices/issues"
+    "url": "https://github.com/redhaanggara/nestjs-microservices/issues"
   },
-  "homepage": "https://github.com/hmake98/nestjs-microservices#readme",
+  "homepage": "https://github.com/redhaanggara/nestjs-microservices#readme",
   "devDependencies": {
     "@nestjs/cli": "^8.2.1",
     "cross-env": "^7.0.3",
